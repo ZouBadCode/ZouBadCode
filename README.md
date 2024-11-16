@@ -5,7 +5,7 @@
   <p>Full-Stacl(Web-Develop)</p>
   <p>ML、DL(For AI Invest Bot)</p>
   <p>hacking、Internet-Security</p>
-  <p>Blockchain(For Dsocial、DAI)</p>
+  <p>Blockchain</p>
 </div>
 
 <h4 align="center">System</h4>
