@@ -1,20 +1,29 @@
-<h1 align="center">Hi 👋, I'm Zou</h1>
-<h3 align="center">我唯一會的程式語言:ChatGPT<br>(I'm just kidding)</h3>
-<h4 align="center">目前正在學習(NOW Learning)</h4>
-<div align="center">
-  <p>Full-Stacl(Web-Develop)</p>
-  <p>ML、DL(For AI Invest Bot)</p>
-  <p>hacking、Internet-Security</p>
-  <p>Blockchain</p>
-</div>
+# Hi, I'm Zou! 👋
 
-<h4 align="center">System</h4>
-<div align="center">
-  <p>kali-linux</p>
-  <img width="40px" height="40px" src="https://toppng.com/uploads/preview/kali-linux-logo-11562915225uyursxhbp6.png">
-  <p>Windows</p>
-</div>
-<h4 align="center">Programming Language</h4>
-<div align="center">
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://rust-lang.org/logos/rust-logo-512x512.png" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-</div>
+![Banner](https://your-image-url.com/banner.png)
+
+## 關於我/about me
+大家好，我是 **佐佑**，我熱愛創造解決問題的程式，同時也是個投資者，在WEB3領域中活躍互動，也是個創作者，有個Youtube頻道，反正雜七雜八的我都會做w
+
+Hi, I'm **zou**. I'm a investor/engineer/content creator/web3 enthusiastic
+
+## 我的 GitHub 狀態
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)](https://github.com/your_username)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)](https://github.com/your_username)
+
+## Langs/Tools
+- **Langs**：Python、Html、JavaScript、CSS、Rust、SuiMove
+- **Framework**：React、Node.js、Docker、Django、Flask、Actix、TensorFlow、PyTorch
+
+
+## Project
+- [Decentitle](https://github.com/ZouBadCode/Decentitle) - 
+- [Brand Page](https://github.com/ZouBadCode/freedomlifeS2_official_website) -
+- [Management system](https://github.com/ZouBadCode/freedomlifeS2_system) - 
+
+## Contact
+- **Email**： [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**： [your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- **Youtube**： [Gaming Channel](https://www.youtube.com/@Zou_Gaming)
+
+---
