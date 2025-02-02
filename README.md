@@ -1,6 +1,6 @@
 # Hi, I'm Zou! 👋
 
-![Banner](https://your-image-url.com/banner.png)
+![My Avatar](https://github.com/ZouBadCode/ZouBadCode/blob/main/NEWA-removebg-preview.png)
 
 ## 關於我/about me
 大家好，我是 **佐佑**，我熱愛創造解決問題的程式，同時也是個投資者，在WEB3領域中活躍互動，也是個創作者，有個Youtube頻道，反正雜七雜八的我都會做w
