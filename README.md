@@ -8,8 +8,8 @@
 Hi, I'm **zou**. I'm a investor/engineer/content creator/web3 enthusiastic
 
 ## 我的 GitHub 狀態
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)](https://github.com/your_username)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)](https://github.com/your_username)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZouBadCode&show_icons=true&theme=radical)](https://github.com/ZouBadCode)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZouBadCode&layout=compact&theme=radical)](https://github.com/ZouBadCode)
 
 ## Langs/Tools
 - **Langs**：Python、Html、JavaScript、CSS、Rust、SuiMove
