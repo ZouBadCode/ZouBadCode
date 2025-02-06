@@ -13,6 +13,9 @@ Hi, I'm **zou**. I'm a investor/engineer/content creator/web3 enthusiastic
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZouBadCode&layout=compact&theme=radical)](https://github.com/ZouBadCode)
 
 [![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZouBadCode&layout=compact&theme=radical)](https://github.com/ZouBadCode)
+
+<img src="https://raw.githubusercontent.com/zoubadcode/zoubadcode/output/snake.svg" alt="Snake animation" />
+
 ## Langs/Tools
 - **Langs**：Python、Html、JavaScript、CSS、Rust、SuiMove
 - **Framework**：React、Node.js、Docker、Django、Flask、Actix、TensorFlow、PyTorch
