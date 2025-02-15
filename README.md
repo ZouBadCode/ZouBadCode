@@ -25,7 +25,7 @@ Hi, I'm **zou**. I'm a investor/engineer/content creator/web3 enthusiastic
 - [Decentitle](https://github.com/ZouBadCode/Decentitle) - 
 - [Brand Page](https://github.com/ZouBadCode/freedomlifeS2_official_website) - a official webpage for FreedomLife Minecraft server.
 - [Management system](https://github.com/ZouBadCode/freedomlifeS2_system) - a Management System of FreedomLife Minecraft server(DiscordBot, Mail, MemberManagement, etc...)
-- [Hair_memecoin](https://github.com/ZouBadCode/Hair) - a memecoin project on sui, with Dynamic NFTs and Coin sales system.👩‍🦰
+- [Hair_memecoin](https://github.com/ZouBadCode/hair_meme) - a memecoin project on sui, with Dynamic NFTs and Coin sales system.👩‍🦰
 ## Contact
 - **Email**： [your.email@example.com](mailto:your.email@example.com)
 - **LinkedIn**： [your LinkedIn](https://www.linkedin.com/in/yourprofile)
