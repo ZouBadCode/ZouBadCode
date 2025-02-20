@@ -26,6 +26,7 @@ Hi, I'm **zou**. I'm a investor/engineer/content creator/web3 enthusiastic
 - [Brand Page](https://github.com/ZouBadCode/freedomlifeS2_official_website) - a official webpage for FreedomLife Minecraft server.
 - [Management system](https://github.com/ZouBadCode/freedomlifeS2_system) - a Management System of FreedomLife Minecraft server(DiscordBot, Mail, MemberManagement, etc...)
 - [Hair_memecoin](https://github.com/ZouBadCode/hair_meme) - a memecoin project on sui, with Dynamic NFTs and Coin sales system.👩‍🦰
+- [Diabeats](https://github.com/creaper9487/2025-AI-glucose) - a AI BloodSugar Management System.
 ## Contact
 - **Email**： [your.email@example.com](mailto:your.email@example.com)
 - **LinkedIn**： [your LinkedIn](https://www.linkedin.com/in/yourprofile)
