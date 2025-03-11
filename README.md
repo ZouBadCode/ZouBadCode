@@ -28,7 +28,7 @@ Hi, I'm **zou**. I'm a investor/engineer/content creator/web3 enthusiastic
 - [Hair_memecoin](https://github.com/ZouBadCode/hair_meme) - a memecoin project on sui, with Dynamic NFTs and Coin sales system.👩‍🦰
 - [Diabeats](https://github.com/creaper9487/2025-AI-glucose) - a AI BloodSugar Management System.
 ## Contact
-- **Email**： [your.email@example.com](mailto:your.email@example.com)
+- **Email**： [zou.official.mail@gmail.com](mailto:zou.official.mail@gmail.com)
 - **LinkedIn**： [your LinkedIn](https://www.linkedin.com/in/yourprofile)
 - **Youtube**： [Gaming Channel](https://www.youtube.com/@Zou_Gaming)
 
