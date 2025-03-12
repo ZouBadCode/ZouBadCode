@@ -8,9 +8,11 @@
 Hi, I'm **zou**. I'm a investor/engineer/content creator/web3 enthusiastic
 
 ## 我的 GitHub 狀態
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZouBadCode&show_icons=true&theme=radical)](https://github.com/ZouBadCode)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZouBadCode&layout=compact&theme=radical)](https://github.com/ZouBadCode)
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZouBadCode&show_icons=true&theme=radical" alt="GitHub 統計資訊">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZouBadCode&layout=compact&theme=radical" alt="最常用語言">
+</div>
 
 [![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZouBadCode&layout=compact&theme=radical)](https://github.com/ZouBadCode)
 
