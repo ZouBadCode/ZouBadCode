@@ -19,8 +19,6 @@ Hi, I'm **zou**. I'm a investor/engineer/content creator/web3 enthusiastic
 ## Langs/Tools
 - **Langs**：Python、Html、JavaScript、CSS、Rust、SuiMove
 - **Framework**：React、Node.js、Docker、Django、Flask、Actix、TensorFlow、PyTorch
-
-
 ## Project
 - [Decentitle](https://github.com/ZouBadCode/Decentitle) - 
 - [Brand Page](https://github.com/ZouBadCode/freedomlifeS2_official_website) - a official webpage for FreedomLife Minecraft server.
@@ -29,7 +27,8 @@ Hi, I'm **zou**. I'm a investor/engineer/content creator/web3 enthusiastic
 - [Diabeats](https://github.com/creaper9487/2025-AI-glucose) - a AI BloodSugar Management System.
 ## Contact
 - **Email**： [zou.official.mail@gmail.com](mailto:zou.official.mail@gmail.com)
-- **LinkedIn**： [your LinkedIn](https://www.linkedin.com/in/yourprofile)
 - **Youtube**： [Gaming Channel](https://www.youtube.com/@Zou_Gaming)
-
+## Experience
+- 2024 Taipei Blockchain Week Hackathon
+- 2025-初新者程式競賽-coding101
 ---
