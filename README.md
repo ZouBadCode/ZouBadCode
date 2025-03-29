@@ -92,7 +92,7 @@ const zou = {
   
 </div>
 
-## 🏆 經歷
+## 🏆 Competition 競賽經歷
 
 <div align="center">
   <img src="https://img.shields.io/badge/2024-Taipei_Blockchain_Week_Hackathon-blue?style=for-the-badge">
