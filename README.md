@@ -97,6 +97,7 @@ const zou = {
 <div align="center">
   <img src="https://img.shields.io/badge/2024-Taipei_Blockchain_Week_Hackathon-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/2025-初新者程式競賽_coding101-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/2025-Eth_Taipei_worldchain_track_🥇_First_Place-blueviolet?style=for-the-badge">
 </div>
 
 ---
