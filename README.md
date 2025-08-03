@@ -1,11 +1,9 @@
 # Hey there! I'm Zou 👋
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Web3+Enthusiast;AI+Integration+Specialist+%7C+Blockchain+Innovator" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
-
 ```typescript
 const zou: Developer = {
     languages: ["Chinese", "English"],
@@ -21,39 +19,31 @@ const zou: Developer = {
 - 💬 Ask me about **Blockchain**, **Full Stack Development**, or **AI**
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZouBadCode&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZouBadCode&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 ## 🛠️ Tech Stack
-
-**Languages:** Python • JavaScript • TypeScript • Rust • Solidity
-
-**Frontend:** React • Next.js • Vue • HTML/CSS
-
-**Backend:** Node.js • Django • Flask • Express
-
-**Database:** MongoDB • PostgreSQL • Redis
-
-**Tools:** Docker • Git • AWS • Linux
-
+**Languages:** Python • JavaScript • TypeScript • Rust • Solidity  
+**Frontend:** React • Next.js • Vue • HTML/CSS  
+**Backend:** Node.js • Django • Flask • Express  
+**Database:** MongoDB • PostgreSQL • Redis  
+**Tools:** Docker • Git • AWS • Linux  
 **Blockchain:** Web3.js • Smart Contracts • DeFi
 
 ## 🏆 Competition Achievements
-
-| Year | Competition | Track/Category | Result |
-|------|-------------|----------------|---------|
-| 2025 | **Eth Taipei** | WorldChain Track | 🥇 **1st Place** |
-| 2024 | **Sui Overflow** | Payment and Wallet Track | 🥉 **3rd Place** |
-| 2024 | **Idea Fintech** | - | 🏅 **Finalist** |
-| 2024 | **CODEFEST** | - | 🎯 **Participant** |
-| 2024 | **Taipei Blockchain Week** | Hackathon | 🎯 **Participant** |
-| 2025 | **Coding 101** | Beginner Programming | 🎯 **Shortlist** |
+| Year | Competition | Track/Category | Result | Project Link |
+|------|-------------|----------------|---------|--------------|
+| 2025 | **Eth Taipei** | WorldChain Track | 🥇 **1st Place** | [🔗 Project](https://github.com/ZouBadCode/eth-taipei-project) |
+| 2025 | **MetaMask Cook Off** | MetaMask Card | 🎯 **Participant** | [🔗 Project](https://github.com/ZouBadCode/metamask-cookoff-project) |
+| 2024 | **Sui Overflow** | Payment and Wallet Track | 🥉 **3rd Place** | [🔗 Project](https://github.com/ZouBadCode/sui-overflow-project) |
+| 2024 | **Idea Fintech** | - | 🏅 **Finalist** | [🔗 Project](https://github.com/ZouBadCode/idea-fintech-project) |
+| 2024 | **CODEFEST** | - | 🎯 **Participant** | [🔗 Project](https://github.com/ZouBadCode/codefest-project) |
+| 2024 | **Taipei Blockchain Week** | Hackathon | 🎯 **Participant** | [🔗 Project](https://github.com/ZouBadCode/taipei-blockchain-project) |
+| 2025 | **Coding 101** | Beginner Programming | 🎯 **Shortlist** | [🔗 Project](https://github.com/ZouBadCode/coding101-project) |
 
 ## 🚀 Featured Projects
-
 ### [Decentitle](https://github.com/ZouBadCode/Decentitle)
 Decentralized asset ownership certification system using blockchain technology.
 
@@ -67,18 +57,15 @@ Complete management system with Discord bot integration and member management.
 AI-powered glucose management system using machine learning.
 
 ## 📈 GitHub Activity
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/zoubadcode/zoubadcode/output/snake.svg" alt="Snake animation" />
 </div>
 
 ## 📫 Contact
-
 - **Email:** zou.official.mail@gmail.com
 - **YouTube:** [@Zou_Gaming](https://www.youtube.com/@Zou_Gaming)
 
 ---
-
 <div align="center">
   <i>🌟 Always excited to collaborate on innovative projects! Feel free to reach out!</i>
 </div>
