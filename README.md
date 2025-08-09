@@ -35,13 +35,14 @@ const zou: Developer = {
 ## 🏆 Competition Achievements
 | Year | Competition | Track/Category | Result | Project Link |
 |------|-------------|----------------|---------|--------------|
-| 2025 | **Eth Taipei** | WorldChain Track | 🥇 **1st Place** | [🔗 Project](https://github.com/ZouBadCode/eth-taipei-project) |
-| 2025 | **MetaMask Cook Off** | MetaMask Card | 🎯 **Participant** | [🔗 Project](https://github.com/ZouBadCode/metamask-cookoff-project) |
-| 2024 | **Sui Overflow** | Payment and Wallet Track | 🥉 **3rd Place** | [🔗 Project](https://github.com/ZouBadCode/sui-overflow-project) |
-| 2024 | **Idea Fintech** | - | 🏅 **Finalist** | [🔗 Project](https://github.com/ZouBadCode/idea-fintech-project) |
-| 2024 | **CODEFEST** | - | 🎯 **Participant** | [🔗 Project](https://github.com/ZouBadCode/codefest-project) |
-| 2024 | **Taipei Blockchain Week** | Hackathon | 🎯 **Participant** | [🔗 Project](https://github.com/ZouBadCode/taipei-blockchain-project) |
-| 2025 | **Coding 101** | Beginner Programming | 🎯 **Shortlist** | [🔗 Project](https://github.com/ZouBadCode/coding101-project) |
+| 2025 | **Eth Taipei** | WorldChain Track | 🥇 **1st Place** | [🔗 Project](https://github.com/Realove-world/Realove) |
+| 2025 | **MetaMask Cook Off** | MetaMask Card | 🎯 **Participant** | [🔗 Project](https://github.com/ZzyzxLabs/circle-split) |
+| 2024 | **Sui Overflow** | Payment and Wallet Track | 🥉 **3rd Place** | [🔗 Project](https://github.com/ZzyzxLabs/sea-wallet-ai-overflow) |
+| 2024 | **Idea Fintech** | - | 🏅 **Finalist** | ❗Research |
+| 2024 | **CODEFEST** | - | 🎯 **Participant** | [🔗 Project](https://github.com/ZouBadCode/Taipei-City-Dashboard) |
+| 2024 | **Taipei Blockchain Week** | Hackathon | 🎯 **Participant** | [🔗 Project](https://github.com/ZouBadCode/Decentitle) |
+| 2025 | **Coding 101** | Beginner Programming | 🎯 **Shortlist** | [🔗 Project](https://github.com/MeDeSciNet/Diabeat-AI-fork) |
+| 2025 | **Unite Defi** | Fusion+ Extend | 🎯 **Participant** | [🔗 Project](https://github.com/ZzyzxLabs/sui-fusion-plus) |
 
 ## 🚀 Featured Projects
 ### [Decentitle](https://github.com/ZouBadCode/Decentitle)
