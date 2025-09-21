@@ -43,6 +43,7 @@ const zou: Developer = {
 | 2024 | **Taipei Blockchain Week** | Hackathon | 🎯 **Participant** | [🔗 Project](https://github.com/ZouBadCode/Decentitle) |
 | 2025 | **Coding 101** | Beginner Programming | 🎯 **Shortlist** | [🔗 Project](https://github.com/MeDeSciNet/Diabeat-AI-fork) |
 | 2025 | **Unite Defi** | Fusion+ Extend | 🎯 **Participant** | [🔗 Project](https://github.com/ZzyzxLabs/sui-fusion-plus) |
+| 2025 | **Sui Taipei VisionMF** | Demo | 🎯 **Participant** | [🔗 Project](https://github.com/ZzyzxLabs/gamble-sui) |
 
 ## 🚀 Featured Projects
 ### [Decentitle](https://github.com/ZouBadCode/Decentitle)
