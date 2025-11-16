@@ -44,6 +44,9 @@ const zou: Developer = {
 | 2025 | **Coding 101** | Beginner Programming | 🎯 **Shortlist** | [🔗 Project](https://github.com/MeDeSciNet/Diabeat-AI-fork) |
 | 2025 | **Unite Defi** | Fusion+ Extend | 🎯 **Participant** | [🔗 Project](https://github.com/ZzyzxLabs/sui-fusion-plus) |
 | 2025 | **Sui Taipei VisionMF** | Demo | 🎯 **Participant** | [🔗 Project](https://github.com/ZzyzxLabs/gamble-sui) |
+| 2025 | **Taiwan RWA Hackathon** | imToken | 🎯 **3rd Place** | [🔗 Project](https://github.com/ZzyzxLabs/sea-wallet-ai-overflow) |
+| 2025 | **Taiwan RWA Hackathon** | Sui | 🎯 **3rd Place** | [🔗 Project](https://github.com/ZzyzxLabs/sea-wallet-ai-overflow) |
+| 2025 | **Taiwan RWA Hackathon** | Main | 🎯 **Honorable Mention** | [🔗 Project](https://github.com/ZzyzxLabs/sea-wallet-ai-overflow) |
 
 ## 🚀 Featured Projects
 ### [Decentitle](https://github.com/ZouBadCode/Decentitle)
