@@ -1,168 +1,106 @@
 <div align="center">
 
-# `Zou`
+# Zou
 
-### Web3 Developer · DeFi Engineer · AI Integrator
+### AI Engineer · Full-Stack Developer · Web3 Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=Building+the+future+of+decentralized+finance;Move+%E2%80%A2+Sui+%E2%80%A2+Solidity+%E2%80%A2+TypeScript;Where+DeFi+meets+AI" alt="Typing SVG" />
+**Building intelligent systems, developer tools, and decentralized infrastructure.**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1100&color=58A6FF&center=true&vCenter=true&width=650&lines=Engineering+AI+agents+and+developer+tools;Building+full-stack+products+from+idea+to+production;Exploring+the+frontier+of+AI+%C3%97+Web3" alt="Typing SVG" />
 
 <br />
 
-[![Location](https://img.shields.io/badge/Taiwan-%23FF6B6B?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/ZouBadCode)
-[![Email](https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zou.official.mail@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Zou_Gaming)
-[![GitHub](https://img.shields.io/github/followers/ZouBadCode?style=flat-square&label=Follow&color=181717&logo=github)](https://github.com/ZouBadCode)
+[![GitHub](https://img.shields.io/badge/GitHub-ZouBadCode-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ZouBadCode)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zou.official.mail@gmail.com)
+[![Location](https://img.shields.io/badge/Based_in-Taiwan-3B82F6?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/ZouBadCode)
 
 </div>
 
 ---
 
-## 🧬 About
+## About Me
 
-```ts
-const zou = {
-  role:     "Full-Stack Web3 Developer",
-  base:     "Taiwan 🇹🇼",
-  focus:    ["DeFi Protocols", "Smart Contract Security", "AI Integration"],
-  building: "WaterX Perp — perpetual DEX on Sui Move",
-  langs:    ["繁體中文", "English"],
-  motto:    "Ship fast, audit harder.",
-};
-```
+I'm a full-stack engineer and builder working at the intersection of **artificial intelligence, developer experience, and decentralized systems**. I focus on turning complex technical ideas into reliable, usable products—from agent architectures and extensible tools to Web3 infrastructure.
 
-> 🔭  Currently architecting & auditing **perpetual DEX infrastructure** on Sui Move
-> 🌱  Exploring **PT/YT yield-splitting** designs and **AI-powered DeFi agents**
-> 💬  Ask me about **Move**, the **Sui object model**, or **DeFi protocol design**
+- **AI Engineering:** Agent architectures, tool integration, RAG, and automation.
+- **Software Engineering:** TypeScript ecosystems, API design, full-stack applications, and cloud infrastructure.
+- **Blockchain:** Sui Move, Solidity, DeFi protocols, and smart contract security.
+- **Beyond code:** Product thinking, open-source tooling, and startup building.
 
 ---
 
-## 🛠 Tech Stack
-
-<details open>
-<summary><b>Smart Contracts & Blockchain</b></summary>
-<br />
-
-![Move](https://img.shields.io/badge/Move-4A90E2?style=for-the-badge&logoColor=white)
-![Sui](https://img.shields.io/badge/Sui-6FBCF0?style=for-the-badge&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Languages</b></summary>
-<br />
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</details>
-
-<details>
-<summary><b>Frontend, Backend & Infra</b></summary>
-<br />
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</details>
-
----
-
-## 🚀 Featured Projects
+## Tech Stack
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-#### 🌊 [WaterX Perp](https://github.com/ZzyzxLabs)
-Perpetual DEX protocol on Sui — order book, risk engine, and weighted liquidity pool, all on-chain.
-
-`Move` · `Sui` · `DeFi`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🐚 [Sea Wallet AI](https://github.com/ZzyzxLabs/sea-wallet-ai-overflow)
-AI-powered wallet with RWA integration. 3× award winner at Taiwan RWA Hackathon.
-
-`AI` · `Sui` · `RWA`
-
+<td width="27%"><b>AI & Agentic Systems</b></td>
+<td>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="Model Context Protocol" src="https://img.shields.io/badge/MCP-555555?style=flat-square" />
+<img alt="Retrieval-Augmented Generation" src="https://img.shields.io/badge/RAG-555555?style=flat-square" />
+<img alt="Tool Calling" src="https://img.shields.io/badge/Tool_Calling-555555?style=flat-square" />
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-#### 💝 [Realove](https://github.com/Realove-world/Realove)
-WorldChain-based social platform. 🥇 1st place at ETH Taipei 2025.
-
-`WorldChain` · `Solidity` · `Social`
-
+<td><b>Frontend & Backend</b></td>
+<td>
+<img alt="React" src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" />
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img alt="Rust" src="https://img.shields.io/badge/Rust-3C3C3C?style=flat-square&logo=rust&logoColor=white" />
 </td>
-<td width="50%" valign="top">
-
-#### 📜 [Decentitle](https://github.com/ZouBadCode/Decentitle)
-Decentralized asset ownership certification system.
-
-`Blockchain` · `NFT` · `Identity`
-
+</tr>
+<tr>
+<td><b>Blockchain & DeFi</b></td>
+<td>
+<img alt="Move" src="https://img.shields.io/badge/Move-4A90E2?style=flat-square" />
+<img alt="Sui" src="https://img.shields.io/badge/Sui-6FBCF0?style=flat-square" />
+<img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+<img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Cloud & Infrastructure</b></td>
+<td>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </td>
 </tr>
 </table>
 
 ---
 
-## 🏆 Highlights
+## Highlights
 
-| Result | Competition | Track | Year |
-|:------:|:------------|:------|:----:|
-| 🥇 **1st** | **ETH Taipei** | WorldChain | 2025 |
-| 🥉 **3rd** | **Taiwan RWA Hackathon** | imToken | 2025 |
-| 🥉 **3rd** | **Taiwan RWA Hackathon** | Sui | 2025 |
-| 🏅 **Honorable Mention** | **Taiwan RWA Hackathon** | Main Track | 2025 |
-| 🥉 **3rd** | **Sui Overflow** | Payment & Wallet | 2024 |
-| 🏅 **Finalist** | **Idea Fintech** | — | 2024 |
+| Recognition | Event | Year |
+|:--|:--|:--:|
+| 🥇 **1st Place — WorldChain Track** | ETH Taipei | 2025 |
+| 🥉 **3rd Place — imToken & Sui Tracks** | Taiwan RWA Hackathon | 2025 |
+| 🏅 **Honorable Mention — Main Track** | Taiwan RWA Hackathon | 2025 |
+| 🥉 **3rd Place — Payment & Wallet Track** | Sui Overflow | 2024 |
+| 🏅 **Finalist** | Idea Fintech | 2024 |
 
 <details>
-<summary>📋 <b>View all 12 competitions</b></summary>
+<summary><b>More hackathon participation</b></summary>
+
 <br />
 
-| Year | Competition | Track | Result | Project |
-|:----:|:------------|:------|:------:|:--------|
-| 2025 | ETH Taipei | WorldChain | 🥇 1st | [Realove](https://github.com/Realove-world/Realove) |
-| 2025 | Taiwan RWA Hackathon | imToken | 🥉 3rd | [sea-wallet-ai](https://github.com/ZzyzxLabs/sea-wallet-ai-overflow) |
-| 2025 | Taiwan RWA Hackathon | Sui | 🥉 3rd | [sea-wallet-ai](https://github.com/ZzyzxLabs/sea-wallet-ai-overflow) |
-| 2025 | Taiwan RWA Hackathon | Main | 🏅 HM | [sea-wallet-ai](https://github.com/ZzyzxLabs/sea-wallet-ai-overflow) |
-| 2025 | MetaMask Cook Off | MetaMask Card | 🎯 | [circle-split](https://github.com/ZzyzxLabs/circle-split) |
-| 2025 | Unite DeFi | Fusion+ Extend | 🎯 | [sui-fusion-plus](https://github.com/ZzyzxLabs/sui-fusion-plus) |
-| 2025 | Sui Taipei VisionMF | Demo | 🎯 | [gamble-sui](https://github.com/ZzyzxLabs/gamble-sui) |
-| 2025 | Coding 101 | Beginner | 🎯 Shortlist | [Diabeat-AI](https://github.com/MeDeSciNet/Diabeat-AI-fork) |
-| 2024 | Sui Overflow | Payment & Wallet | 🥉 3rd | [sea-wallet-ai](https://github.com/ZzyzxLabs/sea-wallet-ai-overflow) |
-| 2024 | Idea Fintech | — | 🏅 Finalist | Research |
-| 2024 | CODEFEST | — | 🎯 | [Taipei-Dashboard](https://github.com/ZouBadCode/Taipei-City-Dashboard) |
-| 2024 | Taipei Blockchain Week | Hackathon | 🎯 | [Decentitle](https://github.com/ZouBadCode/Decentitle) |
+MetaMask Cook Off · Unite DeFi · Sui Taipei VisionMF · Coding 101 (Shortlist) · CODEFEST · Taipei Blockchain Week
 
 </details>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZouBadCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="ZouBadCode's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZouBadCode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="ZouBadCode's most used programming languages" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZouBadCode&theme=tokyonight&hide_border=true" alt="ZouBadCode's GitHub contribution streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZouBadCode&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZouBadCode&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most used languages" />
 
 </div>
 
@@ -170,12 +108,8 @@ Decentralized asset ownership certification system.
 
 <div align="center">
 
-### 🤝 Let's build something cool together
+**Interested in AI systems, developer tooling, or decentralized infrastructure?**
 
-<sub>Open to collaborations on DeFi protocols, AI agents, and anything Web3.</sub>
-
-<br />
-
-<sub>⭐ <i>If you find my work interesting, a star always means a lot.</i></sub>
+[Let's connect](mailto:zou.official.mail@gmail.com) · [Follow on GitHub](https://github.com/ZouBadCode)
 
 </div>
